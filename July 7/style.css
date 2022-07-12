@@ -1,0 +1,36 @@
+body {
+    padding: 3% 7%;
+    background-color: #D9F8C4;
+}
+
+/* .table-head {
+    font-weight: bold;
+    color: #fff;
+} */
+
+h1 {
+    text-align: center;
+    margin: 0 0 2%;
+}
+
+.nofc {
+    border: solid;
+    display: inline;
+}
+
+i {
+    margin-right: 2px;
+}
+
+.custom-control-input {
+    margin-left: 5px;
+}
+
+.custom-control-label {
+    margin: 7px;
+}
+
+.btn {
+    margin-top: 14px;
+    width: 100%;
+}
